@@ -1,6 +1,6 @@
-# Bootcamp HTML Inicial | SomosF5
+# Bootcamp HTML Inicial
 
-Este repositorio contiene mi primer ejercicio práctico de **HTML5** realizado durante el bootcamp **AI4Inclusion** de la Fundación Somos F5 (edición 2026).
+Este repositorio contiene mi primer ejercicio práctico de **HTML5** realizado durante el bootcamp IA (2026).
 
 ## 🎯 Sobre el proyecto
 El objetivo principal fue comprender cómo organizar el contenido de manera jerárquica y eficiente, aplicando las mejores prácticas recomendadas 
